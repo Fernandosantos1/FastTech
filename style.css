@@ -201,6 +201,7 @@ li{
     background-image: url(img/quadsvg.svg);
     background-repeat: no-repeat;
     background:cover ;
+    margin:10em auto;
 }
 .visao_quadrados_txt{
     display: flex;
